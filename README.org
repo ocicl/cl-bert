@@ -1,0 +1,10 @@
+* cl-bert
+
+BERT-RPC for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/flambard/cl-bert.git   |
+| commit  | 8cd7c0a  |
+| systems | cl-bert |
+|---------+-------------------------------------------|
+
